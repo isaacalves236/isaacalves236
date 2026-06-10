@@ -5,7 +5,7 @@
 Me chamo Isaac Alves, tenho 18 anos e sou natural de Brasília. Atualmente, estou cursando engenharia de software na UCB "Primeiro Período". Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/isaac-alves-5a0807281/">
+    <a href="https://www.linkedin.com/in/isaacalves-dev/">
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
